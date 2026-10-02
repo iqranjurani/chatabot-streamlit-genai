@@ -13,7 +13,7 @@ st.set_page_config(
     layout="wide",
 )
 
-st.title("💬 ChatBot by Ranjurani Devam")
+st.title("💬 InsightIQ")
 
 # Initialize Groq LLM
 llm = ChatGroq(
